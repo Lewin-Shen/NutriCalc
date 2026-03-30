@@ -4,6 +4,19 @@ A macro nutrition tracking app for iOS built with SwiftUI and SwiftData.
 
 ---
 
+## Screenshots
+
+<p float="left">
+  <img src="Screenshots/IMG_4187.PNG" width="22%" />
+  <img src="Screenshots/IMG_4188.PNG" width="22%" />
+  <img src="Screenshots/IMG_4189.PNG" width="22%" />
+  <img src="Screenshots/IMG_4190.PNG" width="22%" />
+</p>
+
+*Ingredients list · Add ingredient · Dish builder with live preview · Daily log with dashboard*
+
+---
+
 ## Features
 
 ### Ingredients
@@ -55,9 +68,3 @@ A macro nutrition tracking app for iOS built with SwiftUI and SwiftData.
 4. Hit **Cmd+R**
 
 No third-party dependencies — runs entirely on-device.
-
----
-
-## Screenshots
-
-*Coming soon*
